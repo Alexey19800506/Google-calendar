@@ -1,5 +1,5 @@
 ## Google calendar
-**[Site Link]([https://alexey19800506.github.io/Google-calendar/index.html])**
+**[Site Link](https://alexey19800506.github.io/Google-calendar/index.html)**
 ### To start:
 
 ### Layout supports desktop (up-to-1440) version
